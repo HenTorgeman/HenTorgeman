@@ -20,4 +20,5 @@ DBs: mySQL | MongoDB | PostgreSQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenTorgeman)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
-[I'm an inline-style link]([https://www.google.com](https://www.linkedin.com/in/hen-torgeman/))
+![LinkedIn](https://user-images.githubusercontent.com/74094456/180204536-d28e0777-7872-47d1-92bc-93f4a54b8a15.svg)
+([https://www.linkedin.com/in/hen-torgeman/])
