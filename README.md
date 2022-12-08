@@ -15,9 +15,9 @@ IDEs: VS code | Visual Studio | IntelliJIDEA | Android Studio | PyCharm
 DBs: mySQL | MongoDB | PostgreSQL
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenTorgeman)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenTorgeman)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenTorgeman)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenTorgeman)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Contact
 https://www.linkedin.com/in/hen-torgeman/
